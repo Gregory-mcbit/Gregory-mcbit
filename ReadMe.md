@@ -30,7 +30,7 @@ My bachelor's thesis project: a LangGraph-orchestrated system of specialized age
 ## Education
 
 - **M.S. in Information Systems and Technologies**, Multi-Agent Intelligent Systems — RTU MIREA, expected June 2028
-- **B.S. in Fundamental Informatics and Information Technology**, Artificial Intelligence and Machine Learning — RTU MIREA, June 2026 · GPA: 4.3/5.0
+- **B.S. in Fundamental Informatics and Information Technology**, Artificial Intelligence and Machine Learning — RTU MIREA, June 2026
 
 ## Connect
 
